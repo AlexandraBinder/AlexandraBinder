@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AlexandraBinder. I'm a Biomedical Engineer who transitioned to become a Data Scientist.
-- 👀 I’m interested in applying machine learning models to solve different problemas. Even though I'm mainly interested in the health sector, I'm open to explore various sectors of industry. I think that any opportunity is good to help you learn and grow professionally and personally, which is why I'm open to listen to new projects.
+- 👀 I have a keen interest in leveraging machine learning models to address diverse challenges. While my primary focus lies in the healthcare sector, I am always eager to explore opportunities across different industries. I firmly believe that every opportunity presents a chance for professional and personal growth. Therefore, I am open to listening to new project proposals that can further broaden my knowledge and skills.
 <!-- - 🌱 I’m currently learning about retail pro
 - 💞️ I’m looking to collaborate on ... -->
 - 📫 You can reach me at my e-mail address: xana.binder@gmail.com
