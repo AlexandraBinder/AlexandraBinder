@@ -1,4 +1,3 @@
-![image](https://drive.google.com/uc?id=1TZMkuuGfx2PNvQ_3cbm_3ccLa3Ukk8AV)
 # Hi there! 👋
 Welcome to my GitHub profile! My name is Alexandra Binder and I am a Biomedical Engineer turned Data Scientist with a passion for developing innovative solutions to healthcare challenges using data-driven approaches.
 
